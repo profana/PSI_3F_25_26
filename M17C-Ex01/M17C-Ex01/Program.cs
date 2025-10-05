@@ -12,6 +12,7 @@ namespace M17C_Ex01
         {
             Console.WriteLine("Ana");
             Console.WriteLine("Esteves");
+            Console.WriteLine("Ana Esteves");
         }
     }
 }
