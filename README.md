@@ -2,4 +2,4 @@
 
 - Proposta: melhorar a documentação do projeto.
 - Contributo: acrescentar informação útil para os utilizadores.
-- Autor: Henrique Marcos.
+- Autor: Henrique Marcos
